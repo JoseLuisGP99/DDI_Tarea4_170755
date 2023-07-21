@@ -1,11 +1,10 @@
+# DDI_Tarea4_170755
 
-# DDI_Tarea4_200931
-Implementación de una interfaz de usuario con interacción de pantalla Activity
-
+<div align="center">
+  
 # Universidad Tecnológica de Xicotepec de Juárez
-
 ## Ingeniería en Desarrollo y Gestión de Software
-## Uriel Maldonado Cortez
+## Jose Luis Galindo Picazo 
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
@@ -14,5 +13,5 @@ Implementación de una interfaz de usuario con interacción de pantalla Activity
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | **Tarea 4** *Cambio de Pantallas* |
-| Descripción  | El cambio de pantallas en Wear OS es una característica clave que permite a los usuarios personalizar su experiencia con los dispositivos portátiles y adaptarla a sus necesidades individuales y preferencias de estilo.  |
+| Descripción  | El cambio de pantallas en Wear OS permite a los usuarios personalizar su experiencia con los dispositivos portátiles y adaptarla a sus necesidades individuales y preferencias de estilo.  |
 |  Fecha de Carga | 24/05/23  |
